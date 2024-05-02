@@ -1,0 +1,97 @@
+.body_style {
+  width: 80%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(26, 26, 28);
+}
+.header {
+  background-color: rgb(78, 78, 80);
+  padding: 10px;
+  border-radius: 25px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+.category {
+  display: block;
+  background-color: rgb(78, 78, 80);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 25px;
+  float: left;
+}
+.drug {
+  display: block;
+  background-color: rgb(100, 100, 100);
+  padding: 10px;
+  margin: 10px;
+  border-radius: 25px;
+  box-sizing: border-box;
+  float: left;
+}
+
+.statistic {
+  width: auto;
+  height: auto;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 5px solid rgb(58, 58, 58);
+  border-radius: 25px;
+  box-sizing: border-box;
+  text-align: center;
+  float: left;
+}
+
+.statistic_txt {
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 0px;
+  color: rgb(202, 202, 202);
+  max-width: 300px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 5px;
+  color: rgb(202, 202, 202);
+  text-align: center;
+}
+.header_txt {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  color: rgb(202, 202, 202);
+  font-family: Noto Sans, sans-serif;
+}
+
+p {
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  color: rgb(202, 202, 202);
+  font-family: Noto Sans, sans-serif;
+}
+
+img {
+  width: 100px;
+  height: auto;
+}
